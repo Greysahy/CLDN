@@ -4,7 +4,7 @@
 
 ![Overall_framework](images/Overall_framework.png)
 
-This is the code repository for the paper *"Contrastive Learning Distillation of Non-target Categories for Facial Expression Recognition."* The overall framework is shown in the Figure above.
+This is a PyTorch implementation of the paper *"Contrastive Learning Distillation of Non-target Categories for Facial Expression Recognition."* The overall framework is shown in the Figure above.
 
 
 
