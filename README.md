@@ -12,9 +12,9 @@ Before running this repository, you should store the dataset in the folder *"dat
 
 - Stage-I: *joint training using contrastive learning and supervised learning*
 
-  `python cldn_stage_i.py --data=[your data folder name]` 
+  `python cldn_stage_i.py --data <your data folder name>` 
 
 - Stage-II: *Self-distillation with Non-target categories KL-Divergence loss*
 
-  `python cldn_stage_ii.py --teacher_ckpt=[your checkpoints path] --data=[you data folder name] `
+  `python cldn_stage_ii.py --teacher_ckpt <your checkpoints path> --data <you data folder name> `
 
